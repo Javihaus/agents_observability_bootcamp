@@ -1,1 +1,1 @@
-# Reliable_AI_seminar
+# Learn to make your AI systems reliable
