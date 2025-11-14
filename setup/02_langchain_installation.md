@@ -1,3 +1,10 @@
+<div align="center">
+
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/aa4e84ea-7766-4d56-8537-5522ee5c5883" />
+
+
+</div>
+
 # LangChain Installation Guide
 
 ## Overview
